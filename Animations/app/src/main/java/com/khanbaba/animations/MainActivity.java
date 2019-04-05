@@ -17,10 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
         bartImageView.animate().scaleX(0.5f).scaleY(0.5f).setDuration(2000);
 
-
-
-
-
     }
 
     @Override
